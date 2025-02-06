@@ -6,7 +6,9 @@ Hier vind je een overzicht van mijn projecten en wat ik doe.  Ik ben een beginne
 
 *   Web development (HTML, CSS, JavaScript)
 *   Python programmeren
+*   Payloads voor IoT devices
 *   Machine Learning
+*   Node-RED Flows ontwerpen
 *   Het leren van nieuwe technologieën!
 
 ## Projecten
@@ -19,7 +21,7 @@ Hier vind je een overzicht van mijn projecten en wat ik doe.  Ik ben een beginne
 Je kunt me bereiken via:
 
 *   [Mijn LinkedIn profiel](link naar LinkedIn)
-*   [Mijn e-mailadres](mailto:jouw.email@voorbeeld.com)
+*   [Mijn e-mailadres](mailto:vishant@delmation.nl)
 
 ---
 
